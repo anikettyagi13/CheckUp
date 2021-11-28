@@ -1,0 +1,9 @@
+# [submodule "checkup-backend"]
+# 	path = checkup-backend
+# 	url = https://github.com/anikettyagi13/checkup-backend.git
+[submodule "checkup-backend"]
+	path = checkup-backend
+	url = https://github.com/anikettyagi13/checkup-backend.git
+[submodule "checkup"]
+	path = checkup
+	url = https://github.com/anikettyagi13/checkup-frontend.git
