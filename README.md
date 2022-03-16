@@ -6,6 +6,13 @@
 
 * [Website](https://checkuphospital.azurewebsites.net/)
 
+
+
+
+https://user-images.githubusercontent.com/52878122/158659726-6777130c-89c3-4c4e-a82e-8c0587aa205d.mp4
+
+
+
 CheckUp is a website application that utilizes Internet capabilities to bring patients and doctors together form all around the world. Patients gets an opportunity to get themselves diagnosed with best doctors removing the barrier of distance. Our mission is no one should left behind and everyone gets the best medication and care that they deserve.
 
 
